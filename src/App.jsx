@@ -2,7 +2,7 @@ import React from 'react';
 import { Routes, Route, Link } from 'react-router-dom';
 import Home from './components/home/home';
 import About from './components/about/about';
-import NotFound from './components/not_found';
+import NotFound from './components/not_found/not_found';
 
 function App() {
   return (
