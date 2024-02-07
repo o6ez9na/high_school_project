@@ -1,8 +1,8 @@
 import React from 'react';
 import { Routes, Route, Link } from 'react-router-dom';
-import Home from './component/home';
-import About from './component/about';
-import NotFound from './component/not_found';
+import Home from './components/home/home';
+import About from './components/about/about';
+import NotFound from './components/not_found';
 
 function App() {
   return (
